@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: #f2f2f2;
+}
+
+.header-main {
+    height: 150px;
+    width: 100%;
+    background: lightgreen;
+}
+
+.aside-main {
+    width: 30%;
+    height: 400px;
+    background: #cccccc;
+    float: left;
+}
+
+.article-main {
+    width: 70%;
+    float: left;
+    height: 400px;
+    background: green;
+}
+
+.footer-main {
+    height: 100px;
+    background: blue;
+    width: 100%;
+    clear: both
+}
+
+.nav-main {
+
+}
